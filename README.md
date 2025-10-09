@@ -21,7 +21,7 @@ make assert_setup_dev
 - Add as Submodule
 
 ```bash
-git submodule add -b main https://github.com/wisarootl/shared-scripts.git scripts/shared
+git submodule add -b main https://github.com/wislertt/shared-scripts.git scripts/shared
 ```
 
 - Example Makefile Usage
